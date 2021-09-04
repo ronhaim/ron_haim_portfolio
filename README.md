@@ -1,7 +1,7 @@
 # ron_haim_portfolio
 **Data Analyst Portfolio**
 
-## [Project 1: Covid 19 overview](https://ronhaim.github.io/portfolio/)
+## [Project 1: Covid 19 overview](https://ronhaim.github.io/ron_haim_portfolio/)
 
 Tools needed - Microsoft SQL server, Tableau
 
