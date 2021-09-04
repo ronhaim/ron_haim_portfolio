@@ -12,5 +12,7 @@
 * Total death each continent
 * Infection rate on - Israel, Italy, United States, Brazil & make predictions 
 
+[Go To Dashboard](https://public.tableau.com/app/profile/ron.haim8598/viz/covid19-new_16307676074550/Dashboard1?publish=yes)
+
 *RON HAIM*
 
