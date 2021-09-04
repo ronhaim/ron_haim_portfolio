@@ -10,7 +10,9 @@ Tools needed - Microsoft SQL server, Tableau
 * Total death each continent
 * Infection rate on - Israel, Italy, United States, Brazil & make predictions 
 
-
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 *RON HAIM*
 
