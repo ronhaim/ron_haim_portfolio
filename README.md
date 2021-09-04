@@ -4,8 +4,8 @@
 ## [Project 1: Covid 19 overview](https://ronhaim.github.io/ron_haim_portfolio/)
 
 #### Tools needed - 
-   [x] Microsoft SQL server
-   [x] Tableau
+>  - [x] Microsoft SQL server
+>  - [x] Tableau
 
 * Total death, total cases & death precentage all over the world
 * Showing infaction precent each country
