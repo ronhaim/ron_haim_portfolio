@@ -32,6 +32,18 @@ Source: Tokyo Olympics 2020 Website
 [Go To Dashboard](https://public.tableau.com/app/profile/ron.haim8598/viz/Olympic2021_16307715909380/Dashboard1?publish=yes)
 
 
+## [Project 3: Amazon Top 50 Bestselling Books 2009 - 2019](https://ronhaim.github.io/ron_haim_portfolio/)
+
+#### Tools needed - 
+>  - [x] Python
+>  - [x] Excel
+
+**Description** -
+Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 books, data has been categorized into fiction and non-fiction using Goodreads.
+
+[Go To Notebook](https://colab.research.google.com/drive/1rv3rXnaq0mPJeCX9o0JTGHmAWDdvteEb#scrollTo=ANMbFVEOhsdO)
+
+
 
 *RON HAIM*
 
