@@ -46,6 +46,19 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 [Go To Notebook](https://colab.research.google.com/drive/1rv3rXnaq0mPJeCX9o0JTGHmAWDdvteEb#scrollTo=ANMbFVEOhsdO)
 
 
+## [Project 4: NetflixOriginals](https://ronhaim.github.io/ron_haim_portfolio/)
+
+#### Tools needed - 
+>  - [x] Python
+>  - [x] Excel
+
+**Description** -
+Dataset on Netflix Original Films & IMDB Scores as of 06/01/21.
+
+[Look At The Dataset](https://github.com/ronhaim/ron_haim_portfolio/blob/main/NetflixOriginals.csv)
+
+[Go To Notebook](https://colab.research.google.com/drive/1TJLaaUQtqBEEvPidKOHmM2GBBSolthEf#scrollTo=eNnKRLDByu-H)
+
 
 *RON HAIM*
 
