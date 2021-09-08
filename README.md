@@ -18,6 +18,7 @@ on dashbord you can see -
 * Infection rate on - Israel, Italy, United States, Brazil & make predictions 
 
 [Go To Dashboard -> Tablau](https://public.tableau.com/app/profile/ron.haim8598/viz/covid19-new_16307676074550/Dashboard1?publish=yes)
+
 [Go To Dashboard -> Power BI](https://app.powerbi.com/reportEmbed?reportId=46120c2e-bbaf-4eb0-af34-59a45d6df71b&autoAuth=true&ctid=e1f0859c-5e86-405a-85f6-1cd4ff4ef19c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
 
