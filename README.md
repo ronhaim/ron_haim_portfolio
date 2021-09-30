@@ -10,10 +10,10 @@
 
 
 **Details** -
-This dataset start from 01/01/2020 to 31/08/2021 & and contians data about new cases, death, vaccinations, population and more.
-on dashbord you can see -
-* Total death, total cases & death precentage all over the world
-* Showing infaction precent each country
+This dataset start from 01/01/2020 to 31/08/2021 & and contains data about new cases, death, vaccinations, population and more.
+On dashbord you can see -
+* Total death, total cases & death percentage all over the world
+* Showing infection percent each country
 * Total death each continent
 * Infection rate on - Israel, Italy, United States, Brazil & make predictions 
 
