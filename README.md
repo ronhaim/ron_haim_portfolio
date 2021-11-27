@@ -13,7 +13,7 @@
 The FIFA World Cup is a global football competition contested by the various football-playing nations of the world. It is contested every four years and is the most prestigious and important trophy in the sport of football.
 The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
 
-[Go To Dashboard -> Tablau](https://public.tableau.com/app/profile/ron.haim/viz/WorldCupAnalysis_16380009143120/WorldCupDashboard?publish=yes)
+[Go To Dashboard -> Tableau](https://public.tableau.com/app/profile/ron.haim/viz/WorldCupAnalysis_16380009143120/WorldCupDashboard?publish=yes)
 
 
 ## [Project 2: Covid 19 overview](https://ronhaim.github.io/ron_haim_portfolio/)
@@ -32,7 +32,7 @@ On dashbord you can see -
 * Total death each continent
 * Infection rate on - Israel, Italy, United States, Brazil & make predictions 
 
-[Go To Dashboard -> Tablau](https://public.tableau.com/app/profile/ron.haim8598/viz/covid19-new_16307676074550/Dashboard1?publish=yes)
+[Go To Dashboard -> Tableau](https://public.tableau.com/app/profile/ron.haim8598/viz/covid19-new_16307676074550/Dashboard1?publish=yes)
 
 [Go To Dashboard -> Power BI](https://app.powerbi.com/reportEmbed?reportId=46120c2e-bbaf-4eb0-af34-59a45d6df71b&autoAuth=true&ctid=e1f0859c-5e86-405a-85f6-1cd4ff4ef19c&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D)
 
